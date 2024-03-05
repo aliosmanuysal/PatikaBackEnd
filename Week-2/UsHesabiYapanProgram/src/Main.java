@@ -32,10 +32,10 @@ public class Main {
         // Recursive metot kullanarak üs hesapla
         int sonuc = usHesapla(taban, us);
 
-        // Sonucu ekrana yazdır
-        System.out.println("Sonuç: " + sonuc);
-
-        // Scanner'ı kapat
-        scanner.close();
-    }
+        // Sonucu ekrana yintln("Sonuç: " + sonuc);
+        //
+        //        // Scanner'ı kapat
+        //        scanner.close();
+        //    }azdır
+        System.out.pr
 }
