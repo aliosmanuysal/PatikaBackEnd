@@ -25,7 +25,7 @@ public class MineSweeper {
     // Variable that holds the number of mines and the input received from the user
     int mineCount=0;
 
-    // Oyun başlatıcı
+    // Game launcher
     MineSweeper(int rowNumber, int colNumber) {
         this.rowNumber = rowNumber;
         this.colNumber = colNumber;
