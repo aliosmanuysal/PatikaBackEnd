@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PatikaStore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PatikaStore_jar</output-path>
+    <root id="archive" name="PatikaStore.jar">
+      <element id="module-output" name="PatikaStore" />
+    </root>
+  </artifact>
+</component>
