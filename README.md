@@ -1,4 +1,4 @@
 # PATIKA FULL STACK WEB DEVELOPMENT BOOTCAMP
-- Here are the tutorials and applications I took during the Full-Stack Web Development Bootcamp
+- Back-end education and graduation projects from Patika.dev
 
 ![patika+](/Images/patika+.png)
